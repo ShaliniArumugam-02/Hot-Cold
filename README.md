@@ -11,9 +11,9 @@ Hot and Cold is a beginner-level static website built using only HTML and basic 
 --Basic styling techniques: fonts, colors, spacing, and layout
 
 💡 Project Goals
-Practice writing semantic and well-structured HTML
+--Practice writing semantic and well-structured HTML
 
-Learn to style a static page with CSS using selectors, layout, and box model
+--Learn to style a static page with CSS using selectors, layout, and box model
 
-Build confidence in starting small web design projects from scratch
+--Build confidence in starting small web design projects from scratch
 
