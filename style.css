@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+body {
+font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color:#FFF0DC;
+  background-image: url(./images/WhatsApp\ Image\ 2025-06-19\ at\ 11.19.36\ PM.jpeg);
+
+}
+.container {
+    padding: 50px;
+
+}
+.section-one {
+background-color:#7B4019;
+padding: 20px;
+color: beige;
+opacity: .7;
+
+}
+.section-one__heading {
+    margin: 5px;
+    padding: 5px;
+}
+.section-one__contact {
+    font-weight:lighter ;
+}
+.section-one__contact:hover {
+    font-weight: bold;
+}
+.image {
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+  object-fit: cover;
+  vertical-align: top;
+  margin-bottom: 10px;
+ 
+}
+
+.section-two div {
+display: inline-block;
+margin-top: 30px;
+border:solid 2px #7B4019;
+font-weight: 900;
+margin-right: 5px;
+border-radius: 5px;
+width: 300px;
+vertical-align: top;
+
+} 
+
+.buy {
+    background-color: #DCA06D;
+    padding: 6px;
+    margin: 4px;
+    border-radius: 7px;
+}
+.buy:hover {
+    font-weight: bolder;
+}
+.section-three {
+    background-color: #7B4019;
+    padding: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: bisque;
+}
+.form {
+    margin-left: 30px;
+}
+
+.send {
+    background-color: #3B060A;
+    display: inline-block;
+    padding: 7px;
+    border-radius: 5px;
+}
